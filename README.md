@@ -39,15 +39,15 @@ python - pygame 라이브러리를 사용하여 제작
 게임 오버 - 아무키나 눌러 재시작
 
 
-## 코드
-
-
-파이썬, pygame으로 구현
-
 
 ## LICENSE
 
-GNU
+MIT License
 
 ## REFERENCE
+
+
+**Reference code : (https://m.blog.naver.com/2020xodn/222009846710), pygame 을 이용한 닷지(총알 피하기)**
+
+**Reference image : https://www.pngegg.com/ko , https://www.pngwing.com/ko**
 
