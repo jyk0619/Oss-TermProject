@@ -27,7 +27,6 @@ python - pygame 라이브러리를 사용하여 제작
 ![game_running2](Oss_project/game_image/game_running2.png)
 
 
-아이템은 10초에 하나씩 생성
 
 아이템(쉴드) - 충돌을 1회 무효화하고 점수 +10
 
