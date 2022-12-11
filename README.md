@@ -1,5 +1,7 @@
 # Open Source Software Term-project
 
+https://github.com/jyk0619/Oss-TermProject
+
 ## <닷지게임>
 
 dodge.py 로 실행
